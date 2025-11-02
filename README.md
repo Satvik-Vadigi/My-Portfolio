@@ -29,7 +29,7 @@ git clone https://github.com/Satvik-Vadigi/My-Portfolio.git
 # 2. Navigate into the directory
 cd My-Portfolio/advanced
 
-# 3. Open [index.html](https://satvik-vadigi.github.io/My-Portfolio/) in your browser
+# 3. Open https://satvik-vadigi.github.io/My-Portfolio/ in your browser
 ```
 
 Alternatively, use a local live server (e.g., VS Code extension “Live Server”) for hot reload functionality.
